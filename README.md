@@ -1,6 +1,7 @@
-# ADO MURTADO
+ADO MURTADO
+sttcipasung
 
-Seorang pengembang web yang aktif belajar dan mengerjakan proyek-proyek berbasis **Laravel**, **HTML**, **CSS**, dan **JavaScript**. Saat ini bekerja pada proyek **undangan pernikahan digital**, **website kampus**, dan **form integrasi dengan Google Sheets**. Selalu tertarik dengan teknologi baru seperti **React.js**, **Node.js**, dan **PostgreSQL**.
+A web developer who actively studies and works on projects based on Laravel, HTML, CSS, and JavaScript. Currently working on a digital wedding invitation project, a campus website, and a Google Sheets integration form. Always interested in new technologies like React.js, Node.js, and PostgreSQL.
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
