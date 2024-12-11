@@ -5,8 +5,8 @@ A web developer who actively studies and works on projects based on Laravel, HTM
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
-🚀 Dibuat dengan ❤️ menggunakan **Visual Studio Code** dan **GitHub Pages**.
+🚀 Created using ❤️ Visual Studio Code and GitHub Pages.
 
-📄 **License:** MIT
+📄 License:MIT
 
-🎉 Terima kasih telah berkunjung! Semoga harimu menyenangkan! 🌟
+🎉 Thank you for visiting! Have a great day! 🌟
