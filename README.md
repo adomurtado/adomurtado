@@ -1,12 +1,18 @@
-ADO MURTADO
-sttcipasung
+**ADO MURTADO**  
 
-A web developer who actively studies and works on projects based on Laravel, HTML, CSS, and JavaScript. Currently working on a digital wedding invitation project, a campus website, and a Google Sheets integration form. Always interested in new technologies like React.js, Node.js, and PostgreSQL.
+A passionate **web developer** actively learning and working on projects using **Laravel**, **HTML**, **CSS**, **JavaScript**, **PHP**, and **MySQL**. Currently focused on building **digital wedding invitations**, **campus websites**, and **form integrations with Google Sheets**. Enthusiastic about exploring new technologies such as **React.js**, **Node.js**, and **PostgreSQL**.  
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+> _"Code is like humor. When you have to explain it, it’s bad." – Cory House_
 
-🚀 Created using ❤️ Visual Studio Code and GitHub Pages.
+🎨 **Design Tools:** Prototypes and mockups created in **Figma** to ensure clean, user-friendly interfaces.  
 
-📄 License:MIT
+🚀 **Developed With:**  
+- ❤️ **Visual Studio Code** for coding  
+- 🌐 **GitHub Pages** for hosting  
 
-🎉 Thank you for visiting! Have a great day! 🌟
+📧 **Contact:** [adomurtado1@gmail.com](mailto:adomurtado1@gmail.com)  
+🌟 **GitHub:** [https://github.com/adomurtad](https://github.com/adomurtad)  
+
+📄 **License:** MIT  
+
+🎉 Thank you for visiting! Have an amazing day! 🌟  
