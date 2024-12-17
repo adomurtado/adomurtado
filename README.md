@@ -1,5 +1,5 @@
 **ADO MURTADO**  
-*Students of Cipasung College of Technology*
+**Students of Cipasung College of Technology**
 A passionate **web developer** actively learning and working on projects using **Laravel**, **HTML**, **CSS**, **JavaScript**, **PHP**, and **MySQL**. Currently focused on building **digital wedding invitations**, **campus websites**, and **form integrations with Google Sheets**. Enthusiastic about exploring new technologies such as **React.js**, **Node.js**, and **PostgreSQL**.  
 
 > _"Code is like humor. When you have to explain it, it’s bad." – Cory House_
