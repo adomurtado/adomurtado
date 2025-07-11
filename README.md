@@ -1,41 +1,38 @@
-<h1 align="center">👋 Hi, I'm Adomurtado (Marx Murtado)</h1>
+<h1 align="center">👋 Hi, I'm Marx Murtado</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0A84FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+digital+realm.;Mindful+coder+and+philosopher.;Building+tomorrow,+rooted+in+tradition." />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGc2NzNubXAzcTY4dDY1dThqMTRncDdrcDExZWxxNG5uaWZ2ZXJwbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YT3yoT1zFTRtBrHnRa/giphy.gif" width="300" />
 </p>
 
 ---
 
-### 🎓 Mahasiswa Programmer & Filsafat
-Aku menelusuri makna di balik logika, sambil menulis kode yang fungsional dan elegan. Dua sisi yang saling memperkaya—ilmu dan logika.
+🎮 **Junior Laravel**
+
+🌐 I build distributed systems, explore databases, and sometimes... make digital chaos fun.
+
+🛠️ Currently crafting apps with:
+- 🐘 PostgreSQL + Citus
+- 🧠 Redis & MongoDB
+- ⚡ FastAPI + Laravel
+
+💡 Favorite quote:
+> *"Code is philosophy in execution."*
 
 ---
 
-### 💻 Skills & Tools
-- **Laravel
-- **DevOps**: Docker, GitHub
-- **Lainnya**: Git, Algorithms, Clean Code
+### 🔗 Find Me On
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge)](https://github.com/adomurtado)
+[![Portfolio](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=firefox)](https://bit.ly/m/software-call)
+
+---
+
+
+
+🧱 _Sometimes I code, sometimes I build towers._
 
 ---
 
 ---
 
-### 🧭 Kutipan Favorit
-> “Cogito, ergo sum – tapi soal debugging: *cogito, ergo error sum*.” 😅
-
-> “Alam semesta tak hanya teorinya; aku ingin mewujudkannya—baris demi baris.”
-
----
-
-### 📫 Kontak & Sosial
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge)](https://github.com/adomurtado)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/adomurtado)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge)](mailto:adomurtado@example.com)
-
----
-
-### 🎯 Visi & Gaya
-Aku skeptis terhadap hipotesis yang rapuh, penuh rasa ingin tahu terhadap hal-hal abadi. Cinta tradisi tapi berpikiran maju—sekarang & ke depan.
-
----
-
-<p align="center">© 2025 Adomurtado. Terus belajar, terus membangun.</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=print('Hello%2C+World+!');Coding+is+My+Adventure!;Building+One+Block+at+a+Time..." />
+</p>
