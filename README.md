@@ -13,6 +13,10 @@
 ### 🔗 Find Me On
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge)](https://github.com/adomurtado)
 [![Portfolio](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=firefox)](https://bit.ly/m/software-call)
+[![Gmail](https://img.shields.io/badge/Gmail-adomurtado1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adomurtado1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ado_Murtado-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ado-murtado-a83a21369)
+[![Twitter](https://img.shields.io/badge/Twitter-@AdoMurtado6-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AdoMurtado6)
+[![Instagram](https://img.shields.io/badge/Instagram-em.43.nine_zero_zero-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/em.43.nine_zero_zero)
 
 ---
 
